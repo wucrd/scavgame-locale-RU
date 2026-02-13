@@ -1,5 +1,5 @@
-# Scavenge Game Locale
-Localization files for the "Scavenge Game" by Orsoniks.
+# Casualties:Unknown Community Localisation
+Community localization repository of **Casualties:Unknown** by [Orsoniks](https://github.com/Orsoniks).
 
 # Authors
 | File                       | Contributors                                                                                                        |
